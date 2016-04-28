@@ -126,7 +126,7 @@ Appledoc has been designed to keep comments in source code as readable as possib
 
 Text can be emphasized with the following syntax:
 
-- Text wrapped within stars (\*text\*) becomes strong: *text*.
+- Text wrapped within stars (\*text\*) becomes strong: **text**.
 
 - Text wrapped within underscodes (\_text\_) becomes emphasized: _text_.
 
